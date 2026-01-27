@@ -368,6 +368,7 @@ function highlightNav(page) {
  * 4. Removes 'eduManage_user' from localStorage (clears session)
  * 5. Redirects to login page
  */
+
 function initLogout() {
   const logoutBtn = document.querySelector('a[href*="login.html"]');
   if (logoutBtn) {
@@ -392,6 +393,7 @@ function initLogout() {
  * NOTE: Full implementation would require backend search API or
  *       complex client-side indexing across all data.
  */
+
 function initGlobalSearch() {
   const searchInput = document.querySelector(".search-input");
   if (searchInput) {
