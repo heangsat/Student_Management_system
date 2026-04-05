@@ -5,7 +5,7 @@ EduManage is a responsive frontend web application for school administration. It
 ## Live Demo (GitHub Pages)
 Visit the project here:
 
-**https://heangsat.github.io/test_git/**
+**https://heangsat.github.io/Student_Management_system/**
 
 ## Project Overview
 This project is a functional frontend prototype built for education management workflows.
